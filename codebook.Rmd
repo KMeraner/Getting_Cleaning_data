@@ -1,6 +1,6 @@
 ---
 title: "Codebook for run_analysis.R"
-output: rmarkdown::github_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}

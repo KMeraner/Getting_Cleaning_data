@@ -1,6 +1,6 @@
 ---
 title: "README"
-output: rmarkdown::github_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
